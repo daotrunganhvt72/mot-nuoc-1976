@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1d150c"/>
+  <rect x="10" y="10" width="280" height="380" fill="none" stroke="#3a2d18" stroke-width="2"/>
+  <path d="M150 150l22 67.6h71.1L185.5 259l22 67.6L150 283.3 92.5 326.6l22-67.6L56.9 217.6H128z" fill="#e2b13c" opacity=".85"/>
+  <text x="150" y="365" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="3" fill="#7a6a45">1976</text>
+</svg>
